@@ -1,0 +1,17 @@
+---
+name: Bug report
+about: Something behaves differently from what SKILL.md or the README says
+title: ''
+labels: bug
+assignees: ''
+---
+
+## What happened
+
+<!-- A clear description of the bug. -->
+
+## Steps to reproduce
+
+```bash
+python scripts/kb.py init
+# ...the rest of the commands, in order
